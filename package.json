@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app.js",
-    "dev": "nodemon src/app.js"
+    "start": "node src/chat_app.js",
+    "dev": "nodemon src/chat_app.js"
   },
   "keywords": [],
   "author": "",
